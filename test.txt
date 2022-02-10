@@ -1,2 +1,13 @@
 testtext
+<<<<<<< HEAD
 hi anzum
+=======
+ HEAD
+dddd
+banana
+
+
+
+
+
+>>>>>>> d4dcc4b1f23f257fd661d2e59a09783244e107d2
