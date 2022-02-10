@@ -1,3 +1,15 @@
 testtext
+<<<<<<< HEAD
 dddd
 asd
+=======
+ HEAD
+dddd
+banana
+
+
+
+
+
+>>>>>>> d4dcc4b1f23f257fd661d2e59a09783244e107d2
+asasasd
