@@ -1,4 +1,10 @@
 testtext
+<<<<<<< Updated upstream
 dddd
 
 Johnson: Hi
+=======
+
+
+Johnson : Hi
+>>>>>>> Stashed changes
